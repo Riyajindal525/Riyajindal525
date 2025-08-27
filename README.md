@@ -6,15 +6,17 @@ Aspiring MERN Stack Developer | Tech Enthusiast | CSE’28
 </p>
 
 ---
+## 👩‍💻 About Me
 
-## 💻 About Me
+A passionate **Computer Science Engineering student (CSE’28)** from India with a deep love for **problem solving** and building **impactful web applications**.  
 
-I’m a **Computer Science Engineering student (CSE’28)** with a deep passion for **problem solving** and building **impactful web applications**.  
+🔹 My journey began with curiosity about how websites and software work, evolving into a drive to master both **fundamentals and latest web development tools**.  
 
-- My journey began with curiosity about how websites and software work — quickly evolving into a drive to master both **fundamentals and latest web development tools**.  
-- Ever since writing my first **“Hello World” in C**, I’ve been hooked on bringing technology to life.  
-- From **C and C++** for logic and discipline, I moved on to **HTML5, CSS3, JavaScript, and Bootstrap**, enjoying the creative process.  
-- Today, I’m exploring the **MERN Stack** to develop **scalable, dynamic applications** that solve real-world problems.  
+🔹 Ever since writing my first **“Hello World” in C**, I’ve been hooked on bringing technology to life.  
+
+🔹 From **C and C++** for logic and discipline, I moved on to **HTML5, CSS3, JavaScript, and Bootstrap**, enjoying the creative process.  
+
+🔹 Today, I’m exploring the **MERN Stack** to develop **scalable, dynamic applications** that solve real-world problems.  
 
 ### 🚀 Highlights from my work
 - **Mahabharata Website** — Multi-language platform (Hindi, English, Sanskrit) combining cultural depth with modern UI.  
@@ -23,10 +25,13 @@ I’m a **Computer Science Engineering student (CSE’28)** with a deep passion 
 - **All-in-One Converter** — Quick and clean tool for unit, currency, and temperature conversions.  
 - **Cooking Website** — User-friendly recipe platform with easy navigation.  
 
-🌟 For me, coding is more than writing lines of code — it’s about **solving problems, telling stories, and building something that leaves an impact**. Every project is a stepping stone, every bug a challenge, and every finished product a reason to dream bigger.  
+🔹 For me, coding is more than just writing lines of code — it’s about **solving problems, telling stories, and building something that leaves an impact**.  
 
-🤝 Let’s connect — I’m always open to collaboration or simply talking about technology, ideas, and innovation.  
-🔗 Explore my work: [github.com/riyajindal525](https://github.com/riyajindal525)
+🔹 Every project is a stepping stone, every bug a challenge, and every finished product a reason to dream bigger.  
+
+🤝 Let’s connect — I’m always open to collaboration or talking about **technology, ideas, and innovation**.  
+
+  
 
 ---
 
