@@ -28,8 +28,8 @@ Aspiring MERN Stack Developer | Tech Enthusiast | CSE’28
 ![Image Editing](https://img.shields.io/badge/Image_Editing-FFA500?style=for-the-badge)
 
 ## 📊 GitHub Stats
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riyajindal525&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyajindal525&layout=compact&theme=radical)
 
 
 
