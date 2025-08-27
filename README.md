@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/Riyajindal525?v=4" alt="Riya" width="150" style="border-radius:50%;">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Riya</h1>
 <p align="center">
