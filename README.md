@@ -1,7 +1,15 @@
-# Hi 👋, I'm Riya
-Aspiring MERN Stack Developer | Tech Enthusiast | CSE’28  
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/Riyajindal525?v=4" alt="Riya" width="150" style="border-radius:50%;">
+</p>
 
-🌱 **Skills & Learning**  
+<h1 align="center">Hi 👋, I'm Riya</h1>
+<p align="center">
+Aspiring MERN Stack Developer | Tech Enthusiast | CSE’28
+</p>
+
+---
+
+## 🌱 Skills & Learning
 
 **Frontend & Web:**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -27,12 +35,18 @@ Aspiring MERN Stack Developer | Tech Enthusiast | CSE’28
 ![Strategy](https://img.shields.io/badge/Strategy-20B2AA?style=for-the-badge) 
 ![Image Editing](https://img.shields.io/badge/Image_Editing-FFA500?style=for-the-badge)
 
+---
+
 ## 📊 GitHub Stats
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riyajindal525&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Riyajindal525&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riyajindal525&show_icons=true&theme=radical" alt="Riya's GitHub stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyajindal525&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
+---
 
-
-
-
-
+<p align="center">
+  "Strive for progress, not perfection." 🚀
+</p>
