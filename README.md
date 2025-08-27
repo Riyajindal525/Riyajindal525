@@ -1,9 +1,34 @@
-
+<p align="center">
+  <img src="https://github.com/Riyajindal525/repo-name/blob/main/riya.png?raw=true" alt="Riya" width="150" style="border-radius:50%;">
+</p>
 
 <h1 align="center">Hi 👋, I'm Riya</h1>
 <p align="center">
 Aspiring MERN Stack Developer | Tech Enthusiast | CSE’28
 </p>
+
+---
+
+## 💻 About Me
+
+I’m a **Computer Science Engineering student (CSE’28)** with a deep passion for **problem solving** and building **impactful web applications**.  
+
+- My journey began with curiosity about how websites and software work — quickly evolving into a drive to master both **fundamentals and latest web development tools**.  
+- Ever since writing my first **“Hello World” in C**, I’ve been hooked on bringing technology to life.  
+- From **C and C++** for logic and discipline, I moved on to **HTML5, CSS3, JavaScript, and Bootstrap**, enjoying the creative process.  
+- Today, I’m exploring the **MERN Stack** to develop **scalable, dynamic applications** that solve real-world problems.  
+
+### 🚀 Highlights from my work
+- **Mahabharata Website** — Multi-language platform (Hindi, English, Sanskrit) combining cultural depth with modern UI.  
+- **Spotify Clone** — Responsive web app for seamless music streaming.  
+- **Simon Says Game** — Fun, interactive memory game using JavaScript.  
+- **All-in-One Converter** — Quick and clean tool for unit, currency, and temperature conversions.  
+- **Cooking Website** — User-friendly recipe platform with easy navigation.  
+
+🌟 For me, coding is more than writing lines of code — it’s about **solving problems, telling stories, and building something that leaves an impact**. Every project is a stepping stone, every bug a challenge, and every finished product a reason to dream bigger.  
+
+🤝 Let’s connect — I’m always open to collaboration or simply talking about technology, ideas, and innovation.  
+🔗 Explore my work: [github.com/riyajindal525](https://github.com/riyajindal525)
 
 ---
 
