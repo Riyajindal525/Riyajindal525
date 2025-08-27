@@ -65,10 +65,10 @@ A passionate **Computer Science Engineering student (CSE’28)** from India with
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riyajindal525&show_icons=true&theme=radical" alt="Riya's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riyajindal525&show_icons=true&theme=light" alt="Riya's GitHub stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyajindal525&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyajindal525&layout=compact&theme=light" alt="Top Languages">
 </p>
 
 ---
