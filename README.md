@@ -8,7 +8,7 @@ Aspiring MERN Stack Developer |  Tech Enthusiast | CSE’28
 A passionate **Computer Science Engineering student (CSE’28)** from India with a deep love for **problem solving**  and building **impactful web  applications**.   
 
 🔹 My journey began with curiosity about how websites and software work, evolving into a drive to master both **fundamentals and latest web development tools**.  
-
+ 
 🔹 Ever since writing my first **“Hello World” in C**, I’ve been hooked on bringing technology to life.  
 
 🔹 From **C and C++** for logic and discipline, I moved on to **HTML5, CSS3, JavaScript, and Bootstrap**, enjoying the creative process.  
