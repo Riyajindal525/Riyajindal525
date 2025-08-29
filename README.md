@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Riya</h1> 
 <p align="center">  
-Aspiring MERN Stack Developer | Tech Enthusiast | CSE’28  
+Aspiring MERN Stack Developer |  Tech Enthusiast | CSE’28  
 </p> 
   
 ## 👩‍💻 About Me 
