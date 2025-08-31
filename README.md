@@ -3,7 +3,7 @@
 Aspiring MERN Stack Developer |  Tech Enthusiast | CSE’28  
 </p> 
    
-## 👩‍💻 About Me  
+## 👩‍💻 About Me   
 
 A passionate **Computer Science Engineering student (CSE’28)** from India with a deep love for **problem solving**  and building **impactful web  applications**.   
 
