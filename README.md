@@ -49,25 +49,6 @@ A passionate **Computer Science Engineering student (CSE’28)** from India with
 ![Creativity](https://img.shields.io/badge/Creativity-8A2BE2?style=for-the-badge&logo=adobecreativecloud&logoColor=white) 
 ![Strategy](https://img.shields.io/badge/Strategy-FFA500?style=for-the-badge&logo=trello&logoColor=white)
 
-
-
-
-
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riyajindal525&show_icons=true&theme=light" alt="Riya's GitHub stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyajindal525&layout=compact&theme=light&langs_count=8&size_weight=0.001&count_weight=0.001" alt="Top Languages">
-</p>
-
-
-
----
-
 <p align="center">
   "Strive for progress, not perfection." 🚀
 </p>
