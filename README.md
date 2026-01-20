@@ -2,7 +2,7 @@
 <p align="center">  
 MERN Stack Developer | Tech Enthusiast | CSE ’28  
 </p>  
-
+    
 ---
 
 ## 👩‍💻 About Me
