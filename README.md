@@ -1,94 +1,102 @@
-<!-- ====== PROFILE README for Riya Jindal ====== -->
+<!-- HEADER -->
+
 <h1 align="center">Hi 👋, I'm Riya Jindal</h1>
-<h3 align="center">B.Tech (2nd Year) | Full Stack Developer (MERN) | Project Builder</h3>
 
 <p align="center">
-  <a href="https://github.com/riyajindal525">
-    <img src="https://komarev.com/ghpvc/?username=Riyajindal525&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+Full Stack MERN Developer • React • Node.js • MongoDB
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Real+World+Web+Applications;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet"/>
 </p>
 
 ---
 
-## 🧩 About Me
-- 💻 I build real-world web apps (MERN)
-- 🚀 Working on a University ERP Portal (Admin + Student modules)
-- 🌐 Building a multi-language Mahabharata/Ramayana reading website (Hindi/English/Sanskrit)
-- 🎯 Goal: Become a strong Full Stack Developer through projects
+## 🚀 About Me
+
+✨ Passionate full-stack developer building real-world projects  
+⚡ Skilled in React, Node.js, Express & MongoDB  
+🎓 B.Tech Computer Science Engineering (2023–2027)  
+🔥 Currently working on ERP systems & multi-language websites  
 
 ---
 
-## 🔗 Connect with Me
-- 💼 LinkedIn:www.linkedin.com/in/riya-jindal-76b603332
-- 📧 Email: riyajindal382@example.com
+## 🌐 Connect With Me
 
-
----
-
-## 🛠 Tech Stack
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-0b1220?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0b1220?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-0b1220?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-0b1220?style=for-the-badge&logo=express&logoColor=ffffff)
-![JWT](https://img.shields.io/badge/JWT-0b1220?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
-
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-0b1220?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![Git](https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-0b1220?style=for-the-badge&logo=postman&logoColor=FF6C37)
+<p align="center">
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
-> Replace repo links with your actual repositories.
+## 🛠️ Tech Stack
 
-### 🎓 University ERP Portal (MERN)
-- Admin Dashboard, Students, Attendance, Fee Management, Authentication (JWT)
-- Repo: https://github.com/YOUR_GITHUB_USERNAME/erp-portal
-- Live: (optional) https://your-live-link.com
+<p align="center">
 
-### 📚 Mahabharata / Ramayana Multi-language Website
-- Story chapters + multi-language switch (Hindi/English/Sanskrit)
-- Repo: https://github.com/YOUR_GITHUB_USERNAME/mahabharata-website
-- Live: (optional) https://your-live-link.com
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,postman,vscode,vercel,netlify" />
 
-### 🧑‍🎓 Student Help Websites (HTML/CSS)
-- 5 mini websites for students
-- Repo: https://github.com/YOUR_GITHUB_USERNAME/student-websites
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riyajindal525&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajindal525&layout=compact&theme=tokyonight" height="160" />
-</p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=riyajindal525&theme=tokyonight" height="170" />
-</p>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🏆 GitHub Trophies (optional)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riyajindal525&theme=tokyonight&row=1&column=6" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📌 Currently Learning
-- Advanced MERN Patterns
-- Better UI/UX + Responsive Design
-- Deployment & Production Practices
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff"/>
+</p>
 
 ---
 
-<p align="center"><b>⭐ If you like my work, consider following!</b></p>
+## 💻 Developer Mindset
+
+> "Build with purpose. Learn continuously. Improve daily."
+
+---
+
+## 🚀 Featured Projects
+
+### 🎓 University ERP Portal (MERN)
+✔ Admin dashboard & student management  
+✔ Attendance & fee modules  
+✔ JWT authentication & role-based access  
+
+### 📚 Mahabharata Multi-Language Website
+✔ Hindi, English & Sanskrit support  
+✔ Structured storytelling format  
+✔ Clean responsive UI  
+
+### 🌐 Student Help Websites
+✔ 5 mini websites for students  
+✔ HTML, CSS & deployment practice  
+
+---
+
+<p align="center">
+
+⭐️ If you like my work, consider giving a star!
+
+</p>
