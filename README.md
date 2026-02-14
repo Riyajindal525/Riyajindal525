@@ -59,8 +59,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=riyajindal525&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajindal525E&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -68,7 +68,7 @@
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=riyajindal525&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -76,10 +76,10 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:riyajindal382@gmail.com">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/riya-jindal-76b603332">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
