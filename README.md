@@ -11,7 +11,7 @@
 
 ## 👩‍💻 Who Am I?
 
-- 🎓 B.Tech CSE Student (2023–2027)
+- 🎓 B.Tech CSE Student (2024–2028)
 - 💡 I learn by building real-world applications
 - 🔥 Currently working on ERP systems & scalable web apps
 - 🌍 Passionate about creating meaningful digital products
