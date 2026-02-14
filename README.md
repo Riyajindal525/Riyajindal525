@@ -1,102 +1,91 @@
-<!-- HEADER -->
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Riya Jindal</h1>
-
-<p align="center">
-Full Stack MERN Developer • React • Node.js • MongoDB
-</p>
+<h1 align="center">Riya Jindal 🚀</h1>
+<h3 align="center">MERN Stack Developer | Problem Solver | Project Builder</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Real+World+Web+Applications;Always+Learning+New+Things+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=200&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 Who Am I?
 
-✨ Passionate full-stack developer building real-world projects  
-⚡ Skilled in React, Node.js, Express & MongoDB  
-🎓 B.Tech Computer Science Engineering (2023–2027)  
-🔥 Currently working on ERP systems & multi-language websites  
+- 🎓 B.Tech CSE Student (2023–2027)
+- 💡 I learn by building real-world applications
+- 🔥 Currently working on ERP systems & scalable web apps
+- 🌍 Passionate about creating meaningful digital products
 
 ---
 
-## 🌐 Connect With Me
+## 🧠 What I Believe
+
+> Consistency beats motivation.  
+> Real learning happens through projects.
+
+---
+
+## 🛠 My Toolkit
+
+### 💻 Frontend
+`HTML` • `CSS` • `JavaScript` • `React` • `Tailwind`
+
+### ⚙ Backend
+`Node.js` • `Express.js` • `REST APIs` • `JWT Auth`
+
+### 🗄 Database & Tools
+`MongoDB` • `Git` • `GitHub` • `Postman` • `Vercel`
+
+---
+
+## 🚀 Projects I’m Proud Of
+
+### 🎓 University ERP System
+- Complete Admin + Student management
+- Secure Authentication (JWT)
+- Attendance & Fee Modules
+
+### 📚 Multi-Language Mahabharata Platform
+- Hindi / English / Sanskrit support
+- Structured storytelling interface
+- Clean and responsive UI
+
+### 🌐 Student Productivity Websites
+- Built 5 mini tools for students
+- Fully deployed projects
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,postman,vscode,vercel,netlify" />
-
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Let's Connect
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📈 Contribution Activity
-
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=ffffff"/>
-</p>
-
----
-
-## 💻 Developer Mindset
-
-> "Build with purpose. Learn continuously. Improve daily."
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 University ERP Portal (MERN)
-✔ Admin dashboard & student management  
-✔ Attendance & fee modules  
-✔ JWT authentication & role-based access  
-
-### 📚 Mahabharata Multi-Language Website
-✔ Hindi, English & Sanskrit support  
-✔ Structured storytelling format  
-✔ Clean responsive UI  
-
-### 🌐 Student Help Websites
-✔ 5 mini websites for students  
-✔ HTML, CSS & deployment practice  
-
----
-
-<p align="center">
-
-⭐️ If you like my work, consider giving a star!
-
+✨ Building. Learning. Growing.
 </p>
