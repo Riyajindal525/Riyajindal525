@@ -1,38 +1,94 @@
-<h1 align="center">Hi 👋, I'm Riya</h1>  
-<p align="center">  
-MERN Stack Developer | Tech Enthusiast | CSE ’28  
-</p>  
-    
----
-
-## 👩‍💻 About Me
-
-I am a passionate **Computer Science Engineering student (CSE ’28)** from India with a love for **problem-solving** and building **impactful web applications**.  
-
-- My journey started with curiosity about how software and websites work, evolving into a drive to master both **fundamentals and modern web technologies**.  
-- From writing my first **“Hello World” in C** to exploring the **MERN stack**, I enjoy turning ideas into functional, dynamic applications.  
-- I focus on creating solutions that are **scalable, intuitive, and user-friendly**.  
-- Every project is a step forward, every challenge a lesson, and every finished product a reason to dream bigger.  
-
-## 🌱 Skills & Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF69B4?style=for-the-badge&logo=brain&logoColor=white)
-![Creativity](https://img.shields.io/badge/Creativity-8A2BE2?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
-![Strategy](https://img.shields.io/badge/Strategy-FFA500?style=for-the-badge&logo=trello&logoColor=white)
-
----
+<!-- ====== PROFILE README for Riya Jindal ====== -->
+<h1 align="center">Hi 👋, I'm Riya Jindal</h1>
+<h3 align="center">B.Tech (2nd Year) | Full Stack Developer (MERN) | Project Builder</h3>
 
 <p align="center">
-  "Strive for progress, not perfection." 🚀  
+  <a href="https://github.com/riyajindal525">
+    <img src="https://komarev.com/ghpvc/?username=Riyajindal525&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
+
+---
+
+## 🧩 About Me
+- 💻 I build real-world web apps (MERN)
+- 🚀 Working on a University ERP Portal (Admin + Student modules)
+- 🌐 Building a multi-language Mahabharata/Ramayana reading website (Hindi/English/Sanskrit)
+- 🎯 Goal: Become a strong Full Stack Developer through projects
+
+---
+
+## 🔗 Connect with Me
+- 💼 LinkedIn:www.linkedin.com/in/riya-jindal-76b603332
+- 📧 Email: riyajindal382@example.com
+
+
+---
+
+## 🛠 Tech Stack
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-0b1220?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0b1220?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0b1220?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0b1220?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-0b1220?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-0b1220?style=for-the-badge&logo=express&logoColor=ffffff)
+![JWT](https://img.shields.io/badge/JWT-0b1220?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-0b1220?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Git](https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0b1220?style=for-the-badge&logo=github&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/Postman-0b1220?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+---
+
+## 🚀 Featured Projects
+> Replace repo links with your actual repositories.
+
+### 🎓 University ERP Portal (MERN)
+- Admin Dashboard, Students, Attendance, Fee Management, Authentication (JWT)
+- Repo: https://github.com/YOUR_GITHUB_USERNAME/erp-portal
+- Live: (optional) https://your-live-link.com
+
+### 📚 Mahabharata / Ramayana Multi-language Website
+- Story chapters + multi-language switch (Hindi/English/Sanskrit)
+- Repo: https://github.com/YOUR_GITHUB_USERNAME/mahabharata-website
+- Live: (optional) https://your-live-link.com
+
+### 🧑‍🎓 Student Help Websites (HTML/CSS)
+- 5 mini websites for students
+- Repo: https://github.com/YOUR_GITHUB_USERNAME/student-websites
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riyajindal525&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyajindal525&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=riyajindal525&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies (optional)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=riyajindal525&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+## 📌 Currently Learning
+- Advanced MERN Patterns
+- Better UI/UX + Responsive Design
+- Deployment & Production Practices
+
+---
+
+<p align="center"><b>⭐ If you like my work, consider following!</b></p>
